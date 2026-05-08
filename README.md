@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -113,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
