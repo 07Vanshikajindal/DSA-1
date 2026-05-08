@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -88,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
