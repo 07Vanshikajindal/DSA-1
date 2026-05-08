@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
