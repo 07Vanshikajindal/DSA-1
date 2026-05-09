@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
+| [0403-frog-jump](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -154,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0198-house-robber) |
+| [0403-frog-jump](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0403-frog-jump) |
 <!---LeetCode Topics End-->
