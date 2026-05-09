@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0055-jump-game) |
 ## Linked List
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0403-frog-jump) |
