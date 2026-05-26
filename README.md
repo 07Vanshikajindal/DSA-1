@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0075-sort-colors) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0653-two-sum-iv-input-is-a-bst) |
