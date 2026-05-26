@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0403-frog-jump) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
