@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
