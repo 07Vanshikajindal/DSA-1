@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
