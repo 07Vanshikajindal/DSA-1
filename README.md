@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -166,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
