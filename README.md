@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/07Vanshikajindal/DSA-1/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/07Vanshikajindal/DSA-1/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/07Vanshikajindal/DSA-1/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2487-remove-nodes-from-linked-list) |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/07Vanshikajindal/Bajaj-Training/tree/master/2487-remove-nodes-from-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/07Vanshikajindal/DSA-1/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
